@@ -1,6 +1,8 @@
 # Bred-s-Maya-Anim-Picker
 A Python 2.7 script for Maya to create custom anim picker for riggs.
 
+![ScreenShot](https://github.com/Bredm1/Bred-s-Maya-Anim-Picker/blob/master/SP.png)
+
 It's in still under development, but if anybody want to try or use it, it's avalible to download. The only required library is Tkinter, here is an installation video: 
 https://www.youtube.com/watch?v=F3XbeCPdStQ
 
